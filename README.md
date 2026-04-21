@@ -1,8 +1,6 @@
 # YouTubeToolkit
 
-**YouTubeToolkit** is a free online toolkit built for YouTube creators, marketers, agencies, and researchers who want faster access to channel insights, monetization checks, SEO helpers, and media utilities. According to the site’s public pages, the platform positions itself as a suite of free YouTube analytics and optimization tools for checking monetization status, finding channel IDs, extracting tags, estimating earnings, downloading thumbnails, and analyzing public YouTube data. visit and use: https://youtubetoolkit.com
-
-This repository README is designed as an informational overview of the platform, its public toolset, and the main reasons creators may find it useful.
+**YouTubeToolkit** is a free online toolkit built for YouTube creators, marketers, agencies, and researchers who want faster access to channel insights, monetization checks, SEO helpers, and media utilities. visit and use: https://youtubetoolkit.com
 
 ## About YouTubeToolkit
 
